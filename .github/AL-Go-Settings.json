@@ -65,7 +65,7 @@
   "PullRequestTrigger": "pull_request",
   "ALDoc": {
     "ExcludeProjects": [
-      "System Application Modules"
+      "build_projects_System Application Modules"
     ]
   }
 }
