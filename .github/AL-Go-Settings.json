@@ -33,12 +33,12 @@
     "PublishToEnvironment.yaml",
     "Test Current.settings.json"
   ],
-  "excludeEnvironments": [
-    "Official-Build"
-  ],
   "buildModes": [
     "Default",
     "Clean"
+  ],
+  "excludeEnvironments": [
+    "Official-Build"
   ],
   "CICDPushBranches": [
     "main",
