@@ -64,6 +64,7 @@
   ],
   "PullRequestTrigger": "pull_request",
   "ALDoc": {
+    "UseProjectsAsFolders": false,
     "ExcludeProjects": [
       "System Application Modules"
     ]
